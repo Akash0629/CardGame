@@ -8,6 +8,8 @@ Infrastructure should depend on Application (and, optionally, Use Cases) where a
 
 Infrastructure classes implement interfaces found in the Application (Use Cases) project(s).
 
+Infrastructure contains migrations and db context file to connect with database
+
 
 
 
